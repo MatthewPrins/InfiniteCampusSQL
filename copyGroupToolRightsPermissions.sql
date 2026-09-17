@@ -1,4 +1,4 @@
--- Copy group tool rights permissions from one User Group into another
+-- Copy group tool rights permissions from one User Group into a new, blank one
 -- Matthew Prins, 2026
 
 -- Enter the EXACT name of the User Group to GET the tool rights FROM
